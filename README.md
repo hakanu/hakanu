@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on indexing all memes in the world.
+
 <!--
 **hakanu/hakanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
