@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on indexing all memes in the world.
+- Open sourcing @ https://github.com/hakanu/pervane
+- Indexing all memes in the world @ https://guldum.net
+- Blogging @ https://hakanu.com
+- Ranting @ https://twitter.com/hakanu
 
 <!--
 **hakanu/hakanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
