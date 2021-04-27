@@ -3,7 +3,7 @@
 - Open sourcing @ https://github.com/hakanu/pervane
 - Indexing all memes in the world @ https://guldum.net
 - Blogging @ https://hakanu.net
-- Ranting @ https://twitter.com/hakanu\_
+- Ranting @ https://twitter.com/hakanu_
 
 <!--
 **hakanu/hakanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
